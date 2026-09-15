@@ -9,11 +9,17 @@ Process: guest rate = nights x rate, discount = guest rate - (guestrate x 0.5), 
 Output: Guest rate, total.
 
 PAC
+
 Given:Number of guests, room type, season, nights, peak and off season rates, discount and its conditions.
+
 Required:Total revenue and bill of each guest.
+
 Processing:guest rate = nights x rate, discount = guest rate - (guestrate x 0.5), total = guestrate x total
 
+
+
 Question B Part 2
+
 IPO
 Input: number of requests and floor position requests
 Process: selection of print statemnets based on conditions.
