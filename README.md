@@ -1,9 +1,13 @@
 # programming-fundamental-course
 Question B Part 1
 IPO
+
 Input: Number of guests, room type, season and nights.
+
 Process: guest rate = nights x rate, discount = guest rate - (guestrate x 0.5), total = guestrate x total
+
 Output: Guest rate, total.
+
 PAC
 Given:Number of guests, room type, season, nights, peak and off season rates, discount and its conditions.
 Required:Total revenue and bill of each guest.
