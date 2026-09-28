@@ -25,5 +25,5 @@ Processing: sum = sum + sub[j], average = sum / 5, selection of statements based
 ## Flowchart
 ![Flowchart](Flowchart.jpeg)
 
-## Source Code
+## C program
 ![PART B QUESTION 3.c](partbq3.c)
