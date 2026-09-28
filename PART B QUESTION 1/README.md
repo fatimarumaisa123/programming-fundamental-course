@@ -25,5 +25,5 @@ Processing: guest rate = nights x rate, discount = guest rate - (guest rate x 0.
 ## Flowchart
 ![Flowchart](Flowchart.jpeg)
 
-## Source Code
+## C program
 ![PART B QUESTION 1.C.c](PART%20B%20QUESTION%201.C.c)
