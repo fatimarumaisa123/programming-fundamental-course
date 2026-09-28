@@ -29,4 +29,4 @@ Processing: sum = sum + sub[j], average = sum / 5, selection of statements based
 [Flowchart](Flowchart.jpeg)
 
 ## Source Code
-[PART B QUESTION 3.c](PART%20B%20QUESTION%203.c)
+[PART B QUESTION 3.c](partbq3.c)
