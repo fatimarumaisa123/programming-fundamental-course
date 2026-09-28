@@ -19,7 +19,7 @@ Processing: Selection of print statements based on conditions.
 ![Algorithm](Algorithm.jpeg)
 
 ## Pseudocode
-![pseudocode pg1](Pseudocode%20.jpeg)
+![pseudocode pg1](Pseudocode.jpeg)
 
 
 ## Flowchart
