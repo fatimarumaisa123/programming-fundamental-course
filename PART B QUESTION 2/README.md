@@ -16,14 +16,14 @@ Processing: Selection of print statements based on conditions.
 
 
 ## Algorithm
-[Algorithm](Algorithm.jpeg)
+![Algorithm](Algorithm.jpeg)
 
 ## Pseudocode
-[pseudocode pg1](pseudocode%20pg1.jpeg)
-[pseudocode pg2](pseudocode%20pg2.jpeg)
+![pseudocode pg1](pseudocode%20pg1.jpeg)
+![pseudocode pg2](pseudocode%20pg2.jpeg)
 
 ## Flowchart
-[Flowchart](Flowchart.jpeg)
+![Flowchart](Flowchart.jpeg)
 
 ## Source Code
-[PART B QUESTION 2.c](partbq2.c)
+![PART B QUESTION 2.c](partbq2.c)
