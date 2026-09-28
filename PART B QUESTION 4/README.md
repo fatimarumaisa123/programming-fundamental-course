@@ -29,4 +29,4 @@ Processing: subtotal = quantity x price, discounted amount = subtotal - (subtota
 [Flowchart](Flowchart.jpeg)
 
 ## Source Code
-[PART B QUESTION 4.c](PART%20B%20QUESTION%204.c)
+[PART B QUESTION 4.c](partbq4.c)
