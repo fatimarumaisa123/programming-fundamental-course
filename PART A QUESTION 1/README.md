@@ -1,9 +1,7 @@
-# PART A QUESTION 1
-
 ## Name: Rumaisa Fatima
 ## Student ID: 26K-0018
 ## Section: BAI-1A
-
+# PART A QUESTION 1
 ## Question
 Take a number N and print numbers from N down to 1.
 
