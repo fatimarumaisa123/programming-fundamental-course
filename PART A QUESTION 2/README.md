@@ -9,4 +9,4 @@ Input a year and determine whether it is a leap year. (Rule: divisible by 4 AND 
 100 OR divisible by 400).)
 
 ## Solution
-![Part A Q2 output](PART_A_Q2.jpeg)
+![Part A Q2 output](PART%20A%20Q2.jpeg)
