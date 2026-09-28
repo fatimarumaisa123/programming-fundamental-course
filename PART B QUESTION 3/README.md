@@ -16,14 +16,14 @@ Processing: sum = sum + sub[j], average = sum / 5, selection of statements based
 
 
 ## Algorithm
-[Algorithm](Algorithm.jpeg)
+![Algorithm](Algorithm.jpeg)
 
 ## Pseudocode
-[pseudocode pg1](pseudocode%20pg1.jpeg)
-[pseudocode pg2](pseudocode%20pg2.jpeg)
+[pseudocode pg1](Pseudocode%20.jpeg)
+
 
 ## Flowchart
-[Flowchart](Flowchart.jpeg)
+![Flowchart](Flowchart.jpeg)
 
 ## Source Code
-[PART B QUESTION 3.c](partbq3.c)
+![PART B QUESTION 3.c](partbq3.c)
