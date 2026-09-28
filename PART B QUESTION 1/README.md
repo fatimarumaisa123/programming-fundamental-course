@@ -15,7 +15,8 @@
 **Processing:** guest rate = nights x rate, discount = guest rate - (guest rate x 0.5), total = guest rate x total
 
 ## Output
-[output pbq1](output%20pbq1.jpeg)
+<img width="1298" height="318" alt="output pbq1" src="https://github.com/user-attachments/assets/8dd02a80-416f-451f-948b-62f021f7aab6" />
+
 
 ## Algorithm
 [Algorithm](Algorithm.jpeg)
