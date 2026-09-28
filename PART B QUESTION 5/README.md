@@ -16,8 +16,8 @@ Processing: Execution of statements based on conditions.
 
 
 ## Algorithm
-![Algorithm pg1](Algorithm%20pg1.jpeg)
-![Algorithm pg2](Algorithm%20pg2.jpeg)
+![Algorithm pg1](Algoritm%20pg1.jpeg)
+![Algorithm pg2](Algoritm%20pg2.jpeg)
 
 ## Pseudocode
 ![pseudocode pg1](Pseudocode%20pg1.jpeg)
