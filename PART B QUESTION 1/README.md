@@ -16,7 +16,7 @@ Processing: guest rate = nights x rate, discount = guest rate - (guest rate x 0.
 
 
 ## Algorithm
-[Algorithm](Algorithm.jpeg)
+![Algorithm](Algorithm.jpeg)
 
 ## Pseudocode
 [pseudocode pg1](pseudocode%20pg1.jpeg)
