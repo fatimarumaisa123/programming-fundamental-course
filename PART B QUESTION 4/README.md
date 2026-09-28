@@ -1,8 +1,5 @@
+## Name: Rumaisa Fatima          Student ID: 26K-0018         Section: BAI-1A
 # PART B QUESTION 4
-
-Name: Rumaisa Fatima
-Student ID: 26K-0018
-Section: BAI-1A
 
 ## IPO
 Input: Price, quantity, tax and discount.
