@@ -16,14 +16,18 @@ Processing: Execution of statements based on conditions.
 
 
 ## Algorithm
-[Algorithm](Algorithm.jpeg)
+![Algorithm pg1](Algorithm%20pg1.jpeg)
+![Algorithm pg2](Algorithm%20pg2.jpeg)
 
 ## Pseudocode
-[pseudocode pg1](pseudocode%20pg1.jpeg)
-[pseudocode pg2](pseudocode%20pg2.jpeg)
+![pseudocode pg1](Pseudocode%20pg1.jpeg)
+[pseudocode pg2](Pseudocode%20pg2.jpeg)
+[pseudocode pg3](Pseudocode%20pg3.jpeg)
+[pseudocode pg4](Pseudocode%20pg4.jpeg)
 
 ## Flowchart
-[Flowchart](Flowchart.jpeg)
+![Flowchart pg1](Flowchart%20pg1.jpeg)
+![Flowchart pg2](Flowchart%20pg2.jpeg)
 
 ## Source Code
 [PART B QUESTION 5.c](partbq5.c)
