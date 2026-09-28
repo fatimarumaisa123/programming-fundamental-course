@@ -29,4 +29,4 @@ Processing: Execution of statements based on conditions.
 [Flowchart](Flowchart.jpeg)
 
 ## Source Code
-[PART B QUESTION 5.c](PART%20B%20QUESTION%205.c)
+[PART B QUESTION 5.c](partbq5.c)
