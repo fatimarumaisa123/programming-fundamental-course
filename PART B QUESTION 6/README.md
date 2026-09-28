@@ -1,8 +1,5 @@
+## Name: Rumaisa Fatima          Student ID: 26K-0018         Section: BAI-1A
 # PART B QUESTION 6
-
-Name: Rumaisa Fatima
-Student ID: 26K-0018
-Section: BAI-1A
 
 ## IPO
 Input: Vehicle type, battery level, required level, expected duration, current time, membership, disability, availability.
