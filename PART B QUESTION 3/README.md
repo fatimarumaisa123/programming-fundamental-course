@@ -1,8 +1,5 @@
+## Name: Rumaisa Fatima          Student ID: 26K-0018         Section: BAI-1A
 # PART B QUESTION 3
-
-Name: Rumaisa Fatima
-Student ID: 26K-0018
-Section: BAI-1A
 
 ## IPO
 Input: Number of students, marks of 5 subjects of each student.
