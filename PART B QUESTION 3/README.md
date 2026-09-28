@@ -19,7 +19,7 @@ Processing: sum = sum + sub[j], average = sum / 5, selection of statements based
 ![Algorithm](Algorithm.jpeg)
 
 ## Pseudocode
-[pseudocode pg1](Pseudocode%20.jpeg)
+[pseudocode pg1](Pseudocode.jpeg)
 
 
 ## Flowchart
