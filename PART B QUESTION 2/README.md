@@ -25,5 +25,5 @@ Processing: Selection of print statements based on conditions.
 ## Flowchart
 ![Flowchart](Flowchart.jpeg)
 
-## Source Code
+## C program
 ![PART B QUESTION 2.c](partbq2.c)
