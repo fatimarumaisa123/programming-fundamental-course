@@ -16,14 +16,13 @@ Processing: subtotal = quantity x price, discounted amount = subtotal - (subtota
 
 
 ## Algorithm
-[Algorithm](Algorithm.jpeg)
+![Algorithm](Algorithm.jpeg)
 
 ## Pseudocode
-[pseudocode pg1](pseudocode%20pg1.jpeg)
-[pseudocode pg2](pseudocode%20pg2.jpeg)
+![pseudocode pg1](Pseudocode.jpeg)
 
 ## Flowchart
-[Flowchart](Flowchart.jpeg)
+![Flowchart](Flowchart.jpeg)
 
 ## Source Code
-[PART B QUESTION 4.c](partbq4.c)
+![PART B QUESTION 4.c](partbq4.c)
