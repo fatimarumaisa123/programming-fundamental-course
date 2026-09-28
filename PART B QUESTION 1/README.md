@@ -1,18 +1,18 @@
 # PART B QUESTION 1
 
-**Name:** Rumaisa Fatima
-**Student ID:** 26K-0018
-**Section:** BAI-1A
+Name: Rumaisa Fatima
+Student ID: 26K-0018
+Section: BAI-1A
 
 ## IPO
-**Input:** Number of guests, room type, season and nights.
-**Process:** guest rate = nights x rate, discount = guest rate - (guest rate x 0.5), total = guest rate x total
-**Output:** Guest rate, total.
+Input: Number of guests, room type, season and nights.
+Process: guest rate = nights x rate, discount = guest rate - (guest rate x 0.5), total = guest rate x total
+Output: Guest rate, total.
 
 ## PAC
-**Given:** Number of guests, room type, season, nights, peak and off season rates, discount and its conditions.
-**Required:** Total revenue and bill of each guest.
-**Processing:** guest rate = nights x rate, discount = guest rate - (guest rate x 0.5), total = guest rate x total
+Given: Number of guests, room type, season, nights, peak and off season rates, discount and its conditions.
+Required: Total revenue and bill of each guest.
+Processing: guest rate = nights x rate, discount = guest rate - (guest rate x 0.5), total = guest rate x total
 
 ## Output
 <img width="1298" height="318" alt="output pbq1" src="https://github.com/user-attachments/assets/8dd02a80-416f-451f-948b-62f021f7aab6" />
