@@ -19,8 +19,8 @@ Processing: Execution of statements based on conditions.
 ![Algorithm](Algorithm.jpeg)
 
 ## Pseudocode
-![pseudocode pg1](pseudocode%20pg1.jpeg)
-![pseudocode pg2](pseudocode%20pg2.jpeg)
+![pseudocode pg1](Pseudocode%20pg1.jpeg)
+![pseudocode pg2](Pseudocode%20pg2.jpeg)
 
 ## Flowchart
 ![Flowchart pg1](Flowchart%20pg1.jpeg)
