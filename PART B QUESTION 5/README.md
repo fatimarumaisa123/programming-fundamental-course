@@ -29,5 +29,5 @@ Processing: Execution of statements based on conditions.
 ![Flowchart pg1](Flowchart%20pg1.jpeg)
 ![Flowchart pg2](Flowchart%20pg2.jpeg)
 
-## Source Code
+## C program
 [PART B QUESTION 5.c](partbq5.c)
