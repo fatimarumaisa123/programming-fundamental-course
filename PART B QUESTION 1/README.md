@@ -1,8 +1,5 @@
+## Name: Rumaisa Fatima          Student ID: 26K-0018         Section: BAI-1A
 # PART B QUESTION 1
-
-Name: Rumaisa Fatima
-Student ID: 26K-0018
-Section: BAI-1A
 
 ## IPO
 Input: Number of guests, room type, season and nights.
