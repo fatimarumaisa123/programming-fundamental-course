@@ -1,8 +1,5 @@
+## Name: Rumaisa Fatima          Student ID: 26K-0018         Section: BAI-1A
 # PART B QUESTION 2
-
-Name: Rumaisa Fatima
-Student ID: 26K-0018
-Section: BAI-1A
 
 ## IPO
 Input:Number of requests and floor position requests.
