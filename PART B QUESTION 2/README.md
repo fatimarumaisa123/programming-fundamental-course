@@ -29,4 +29,4 @@ Processing: Selection of print statements based on conditions.
 [Flowchart](Flowchart.jpeg)
 
 ## Source Code
-[PART B QUESTION 2.c](PART%20B%20QUESTION%202.c)
+[PART B QUESTION 2.c](partbq2.c)
