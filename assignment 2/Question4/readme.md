@@ -2,5 +2,6 @@
 # QUESTION 4
 
 ## output
-![Uploading question 4 output.png…]()
+<img width="671" height="345" alt="question 4 output" src="https://github.com/user-attachments/assets/d2d8dda1-499c-4281-8005-6919e63e6419" />
+
 
